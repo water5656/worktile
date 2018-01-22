@@ -11,4 +11,4 @@
     将代码下载至本地后，首先安装依赖，在CMD中输入：npm install
     安装依赖成功后，输入：npm run dev
     
-    技术栈：nodejs + express + mongodb + vue + webpack + babel + stylus + jqueryui
+    技术栈：nodejs + express + vue + webpack + babel + stylus + jqueryui
